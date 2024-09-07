@@ -7,3 +7,6 @@ hello word！
 hello word！merge master
 hello word！merge hot-fix
 hello word！
+
+
+git modefied

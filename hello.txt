@@ -10,3 +10,4 @@ hello word！
 
 
 git modefied
+clone modefied
